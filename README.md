@@ -22,11 +22,4 @@ Backend developer focused on building **robust, scalable, and efficient systems*
 ## ⚡ Interests
 - Solving backend and algorithm challenges  
 - Exploring new tech stacks and server-side development  
-- Hobbies: gaming and technology experimentation  
-
----
-
-## 📊 GitHub Stats
-
-![HideyukiJS GitHub stats](https://github-readme-stats.vercel.app/api?username=HideyukiJS&show_icons=true&theme=dark&count_private=true&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HideyukiJS&layout=compact&theme=dark)
+- Hobbies: gaming and technology experimentation
