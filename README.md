@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm HideyukiJS
 
-Aspiring backend developer focused on building **robust, scalable, and efficient systems**. Passionate about clean code, automation, and delivering reliable software.
+Backend developer focused on building **robust, scalable, and efficient systems**. Passionate about clean code, automation, and delivering reliable software.
 
 ## 🔧 Skills
 - **Languages & Frameworks:** Python (Django, FastAPI), Java (Spring Boot)
@@ -12,9 +12,9 @@ Aspiring backend developer focused on building **robust, scalable, and efficient
 ## 🎯 Focus Areas
 - Backend architecture and system design
 - Building APIs and scalable services
-- Learning advanced cloud and container technologies
+- Advanced cloud and container technologies
 
 ## ⚡ Interests
 - Solving algorithm and backend challenges
-- Experimenting with tech stacks and server-side development
-- Hobbies: gaming and exploring new technologies
+- Exploring new tech stacks and server-side development
+- Hobbies: gaming and technology experimentation
