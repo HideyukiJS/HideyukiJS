@@ -1,4 +1,4 @@
-asi quedo y la verdad no me gusto porque tengo muy poca cosas a comparacion de el y muy pocos proyectos# Hi, I'm Diego 👋
+# Hi, I'm Diego 👋
 
 📍 **Mexico, Mexico** | 🤖 **Backend & Fullstack Developer** | 🚀 **[Logro o experiencia destacada]**
 
