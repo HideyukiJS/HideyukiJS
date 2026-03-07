@@ -1,6 +1,6 @@
 # Hi, I'm Diego 👋
 
-📍 **Mexico, Mexico** | 🤖 **Backend & Fullstack Developer** | 
+📍 **Mexico, Mexico** | 🤖 **Fullstack Developer** | 
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
