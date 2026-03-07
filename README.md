@@ -28,15 +28,8 @@
 - ☁️ **[Project2](#)** – Brief description
 - 🔧 **[Project3](#)** – Brief description
 - 🧪 **[Project4](#)** – Brief description
-- [Add more projects following this style]
 
-### Legacy Work
 
-- 🔄 **[LegacyProject1](#)** – Brief description
-- 🧩 **[LegacyProject2](#)** – Brief description
-- [Add more legacy projects if applicable]
-
----
 
 ## GitHub Activity
 
@@ -53,15 +46,6 @@
 
 ---
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post1](#)
-- [Post2](#)
-- [Post3](#)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## Connect
 
