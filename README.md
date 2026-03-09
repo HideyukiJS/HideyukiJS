@@ -16,7 +16,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-> I enjoy building backend systems, APIs, and experimenting with different technologies.
+> I enjoy building and experimenting with different technologies.
 
 🍭 **[Portfolio & Blog](https://hideyukijs.github.io/ciberwiki/)** – Personal portfolio and blog showcasing projects and web apps.
 
