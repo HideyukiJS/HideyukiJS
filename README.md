@@ -25,7 +25,9 @@
 ## Projects
 
 
-👑 **[AdminDashboardTemplate](https://github.com/HideyukiJS/AdminDashboardTemplate.git)** - administration panel with react
+👑 **[AdminDashboardTemplate](https://github.com/HideyukiJS/AdminDashboardTemplate.git)** - 
+
+✍🏻 **[LibreNote](https://github.com/HideyukiJS/LibreNote.git)** -
 
 I'm currently building and experimenting with different projects.  
 Some of them will appear here soon.
