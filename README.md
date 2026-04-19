@@ -47,9 +47,9 @@ Some of them will appear here soon.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoo-rocha1/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HideyukiJS)
-[![Portfolio & Blog](https://img.shields.io/badge/-Portfolio%20%26%20Blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://hideyukijs.github.io/ciberwiki/)
+[![Portfolio & Blog](https://img.shields.io/badge/-Portfolio%20%26%20Blog-FF5722?style=flat-square&logo=hugo&logoColor=white)]()
 
 ---
 
