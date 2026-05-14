@@ -32,20 +32,8 @@
 ✍🏻 **[LibreNote](https://github.com/HideyukiJS/LibreNote.git)** -
 
 
-I'm currently building and experimenting with different projects.  
-Some of them will appear here soon.
 
 
-
-
-## What I'm Doing
-
-- **Building scalable systems** – APIs, microservices, and fullstack apps  
-- **Exploring new tech stacks**  
-- **Rapid prototyping** – Building backend tools, automation scripts, and web apps quickly  
-- **Learning & sharing** – Experimenting with algorithms, optimization, and developer tooling  
-
----
 
 
 ## Connect
