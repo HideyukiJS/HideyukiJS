@@ -2,7 +2,6 @@
 
 📍 **Mexico** | 🤖 **Engineer** | 
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 
 > I enjoy building and experimenting with different technologies.
