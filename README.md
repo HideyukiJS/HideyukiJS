@@ -3,11 +3,12 @@
 
 ![https://github.com/vyr0nx](./stworiginal.png)
 
-
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)]()
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)]()
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)()
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 I'm passionate about technology, software development, and artificial intelligence.
@@ -34,5 +35,5 @@ My goal is to keep growing as a developer, take on increasingly challenging proj
 ## Connect:
 
 
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:agencyperl@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:agencyperl@gmail.com)
 
