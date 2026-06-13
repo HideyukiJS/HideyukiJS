@@ -20,14 +20,7 @@ My goal is to keep growing as a developer, take on increasingly challenging proj
 > 
 > 👥 [vscode]
 
-## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]()
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]()
-</br>
-[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vyr0nx)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://diego-devjss.vercel.app/)
 
 
 # some of my projects
