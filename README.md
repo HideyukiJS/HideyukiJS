@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-I'm passionate about technology, software development, and artificial intelligence.
+I'm passionate about technology, software development.
 
 I enjoy building projects, exploring new technologies, and continuously expanding my knowledge through both academic and personal learning. I'm particularly interested in understanding how systems work, solving complex problems through software, and creating applications that have a real-world impact.
 
