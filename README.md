@@ -32,8 +32,3 @@ My goal is to keep growing as a developer, take on increasingly challenging proj
 
 ✍🏻 **[LibreNote](https://github.com/vyr0nx/LibreNote.git)** -
 
-## Connect:
-
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agencyperl@gmail.com)
-
